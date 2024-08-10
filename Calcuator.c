@@ -3,10 +3,7 @@ int main(){
     
     printf("Welcome To Calculator");
     
-    
-
-   
-   
+       
     float n1,n2;
     char s;
     char Sum = '+';
